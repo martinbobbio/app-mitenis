@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo-up.jpg" width="200">
+  <img src="https://raw.githubusercontent.com/martinbobbio/app-mitenis/73cb1b9665b5cd04309b6ec6b4219b3d21a82099/src/assets/images/tenis.svg" width="200">
   <br><br>
   Mi Tenis - APP
   <br>
