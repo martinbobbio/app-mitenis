@@ -1,2 +1,3 @@
-export {default as ListNotice} from './list-notices/list-notice';
-export {default as Map} from './map/map';
+export {default as ListNotice} from './list-notices/List-notice';
+export {default as Map} from './map/Map';
+export {default as Header} from './header/Header';
